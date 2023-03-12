@@ -8,8 +8,7 @@ The purpose of this project is to use data transformation and machine learning t
 
  - Data Wrangling - `Removed duplicates and dropped misssing or null values in the dataset.`
  - Exploratory Data Analysis - `Analyzed the data and summarized the main characteristics.`
- - Data Visualization - `Used boxplot, distribution plot, scatter plot, violin plot, residual plot and regression plot to visualize the data and it's characteristics.`
- - Machine Learning Algorithms Used - `Linear Regression, Polynomial Transformation, Ridge Regression and Random Forest`
+ - Machine Learning Algorithms Used - `Linear Regression, Random Forest Regression, XGBoost.`
  - Evaluation Metrics Used - `Mean Squared Error(MSE) and R-squared`
 
 
@@ -22,7 +21,6 @@ The purpose of this project is to use data transformation and machine learning t
  - Seaborn
  - Matplotlib
  - Scikit-Learn
- - Scipy
  ```
 
 # Datasets available
